@@ -1,0 +1,219 @@
+📡央视频道,#genre#
+
+
+CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+
+CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+CCTV2,https://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+
+CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+
+CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+
+CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+
+CCTV16,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
+
+
+📡内蒙古,#genre#
+「内蒙古」,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+「内蒙古」少儿频道,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+「内蒙古」文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
+「内蒙古」经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+「内蒙古」新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
+「内蒙古」农牧频道,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
+
+
+
+📡卫视频道,#genre#
+
+东方卫视,https://node1.olelive.com:6443/live/DONGFANGHD/hls.m3u8
+
+广东卫视,https://node1.olelive.com:6443/live/GUANGDONGHD/hls.m3u8
+
+
+湖南卫视,https://node1.olelive.com:6443/live/HUNANHD/hls.m3u8
+
+辽宁卫视,https://node1.olelive.com:6443/live/LIAONINGHD/hls.m3u8
+
+
+江苏卫视,https://node1.olelive.com:6443/live/JIANGSUHD/hls.m3u8
+
+重庆卫视,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8
+
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
+
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
+
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,https://node1.olelive.com:6443/live/ZHEJIANGHD/hls.m3u8
+
+
+
+
+
+
+📡少儿节目,#genre#
+
+倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+卡酷少兒,http://qnap.yjnhome.com:4000/udp/239.3.1.189:8000
+棉花糖和云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+熊出没•变形记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+熊出没•过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
+猪猪侠•英雄猪少年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
+大卫贝肯•倒霉特工熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+昆塔•反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+
+
+📡「地方」频道,#genre#
+
+「北京」石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8?zbeid
+
+「安徽」安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
+「安徽」安徽影院,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
+「安徽」安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
+「安徽」池州公共,http://cm.wshls.homecdn.com/live/4abdf.flv?zanhd
+「安徽」肥西综合,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8?zanhd
+「安徽」固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
+「安徽」淮南公共,http://stream.0554news.com/hnds2/sd/live.m3u8?zanhd
+「安徽」淮南新闻综合,http://stream.0554news.com/hnds1/sd/live.m3u8?zanhd
+「安徽」歙县综合频道,http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8?zanhd
+「安徽」宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
+
+「福建」建宁综合频道,https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud
+
+「吉林」延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
+「吉林」延边-2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
+「吉林」延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
+「吉林」延边朝鲜语综合,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
+「吉林」延边汉语综合,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
+
+
+
+
+
+
+
+
+
+
+📡DJ舞曲,#genre#
+
+
+4K车载《泪蛋蛋掉在酒杯杯里》DJ炫舞版 百看不厌,https://vd3.bdstatic.com/mda-nksfbc2izy9f6zug/720p/h264/1669546296830922368/mda-nksfbc2izy9f6zug.mp4
+4K车载《泪蛋蛋掉在酒杯杯里》DJ炫舞版 百看不厌,https://vd3.bdstatic.com/mda-nksfbc2izy9f6zug/720p/h264/1669546296830922368/mda-nksfbc2izy9f6zug.mp4
+4K高清经典夜店DJ阿悠悠《且问》加美女动感炫舞 真是太好听了！,https://vd4.bdstatic.com/mda-mh49vt5iqp3e7x8k/720p/h264/1628146884962346682/mda-mh49vt5iqp3e7x8k.mp4
+4K高清经典夜店DJ阿悠悠《且问》加美女动感炫舞 真是太好听了！,https://vd4.bdstatic.com/mda-mh49vt5iqp3e7x8k/720p/h264/1628146884962346682/mda-mh49vt5iqp3e7x8k.mp4
+4K高清戴羽彤《来迟》夜店DJ舞曲版加动感劲爆炫舞背景 耳目一新,https://vd4.bdstatic.com/mda-mf4bu6gfbtwbfqq5/720p/h264/1622881458967201202/mda-mf4bu6gfbtwbfqq5.mp4
+4K高清戴羽彤《来迟》夜店DJ舞曲版加动感劲爆炫舞背景 耳目一新,https://vd4.bdstatic.com/mda-mf4bu6gfbtwbfqq5/720p/h264/1622881458967201202/mda-mf4bu6gfbtwbfqq5.mp4
+4K陈瑞《一千零一夜的思念》车载伤感DJ版加劲爆炫舞 耳目一新,https://vd2.bdstatic.com/mda-metm2020tqf9wbct/720p/h264/1622213715848288375/mda-metm2020tqf9wbct.mp4
+4K陈瑞《一千零一夜的思念》车载伤感DJ版加劲爆炫舞 耳目一新,https://vd2.bdstatic.com/mda-metm2020tqf9wbct/720p/h264/1622213715848288375/mda-metm2020tqf9wbct.mp4
+4K高清岳云鹏《最亲的人》车载夜店DJ舞曲版 这首歌太火了,https://vd2.bdstatic.com/mda-meqitprx5ti8ed1a/720p/h264/1621948823045463060/mda-meqitprx5ti8ed1a.mp4
+4K高清岳云鹏《最亲的人》车载夜店DJ舞曲版 这首歌太火了,https://vd2.bdstatic.com/mda-meqitprx5ti8ed1a/720p/h264/1621948823045463060/mda-meqitprx5ti8ed1a.mp4
+《可可托海的牧羊人》伤感凄美车载DJ经典版 这首歌唱火了！,https://vd4.bdstatic.com/mda-me70iy8327wyu3gp/720p/h264/1620433827317330462/mda-me70iy8327wyu3gp.mp4
+《可可托海的牧羊人》伤感凄美车载DJ经典版 这首歌唱火了！,https://vd4.bdstatic.com/mda-me70iy8327wyu3gp/720p/h264/1620433827317330462/mda-me70iy8327wyu3gp.mp4
+4K车载伤感DJ舞曲卢喃《来生不做痴情人》加动感美女炫舞 很好听,https://vd3.bdstatic.com/mda-me49tjbyq5yt8ynu/720p/h264/1620197897045365799/mda-me49tjbyq5yt8ynu.mp4
+4K车载伤感DJ舞曲卢喃《来生不做痴情人》加动感美女炫舞 很好听,https://vd3.bdstatic.com/mda-me49tjbyq5yt8ynu/720p/h264/1620197897045365799/mda-me49tjbyq5yt8ynu.mp4
+4K高清夜店经典DJ舞曲《落花》加动感美女炫舞 随着音乐一起嗨！,https://vd4.bdstatic.com/mda-me42p2149u3w00xa/720p/h264/1620179745210912217/mda-me42p2149u3w00xa.mp4
+4K高清夜店经典DJ舞曲《落花》加动感美女炫舞 随着音乐一起嗨！,https://vd4.bdstatic.com/mda-me42p2149u3w00xa/720p/h264/1620179745210912217/mda-me42p2149u3w00xa.mp4
+4K高清DJ夜店舞曲胡蜜丹《拈花一笑》加美女动感炫舞 耳目一新,https://vd2.bdstatic.com/mda-kjpvz81f3fsb0m4v/sc/mda-kjpvz81f3fsb0m4v.mp4
+4K高清DJ夜店舞曲胡蜜丹《拈花一笑》加美女动感炫舞 耳目一新,https://vd2.bdstatic.com/mda-kjpvz81f3fsb0m4v/sc/mda-kjpvz81f3fsb0m4v.mp4
+高音质车载DJ舞曲《我单身我骄傲》加美女动感舞蹈 歌词入心好听,https://vd2.bdstatic.com/mda-kihpyr361d6fg51d/sc/mda-kihpyr361d6fg51d.mp4
+高音质车载DJ舞曲《我单身我骄傲》加美女动感舞蹈 歌词入心好听,https://vd2.bdstatic.com/mda-kihpyr361d6fg51d/sc/mda-kihpyr361d6fg51d.mp4
+最近很火的车载DJ舞曲明歆悦《迷人的危险》加炫舞背景 动感十足,https://vd4.bdstatic.com/mda-kifwywyz3t3qd51z/sc/mda-kifwywyz3t3qd51z.mp4
+最近很火的车载DJ舞曲明歆悦《迷人的危险》加炫舞背景 动感十足,https://vd4.bdstatic.com/mda-kifwywyz3t3qd51z/sc/mda-kifwywyz3t3qd51z.mp4
+4K高清车载夜店DJ舞曲张韶涵《欧若拉》加美女炫舞背景 耳目一新,https://vd3.bdstatic.com/mda-kife2iqvj58uu623/sc/mda-kife2iqvj58uu623.mp4
+4K高清车载夜店DJ舞曲张韶涵《欧若拉》加美女炫舞背景 耳目一新,https://vd3.bdstatic.com/mda-kife2iqvj58uu623/sc/mda-kife2iqvj58uu623.mp4
+4K高清车载DJ舞曲祁隆《爱的期限》加动感美女舞蹈 让您耳目一新,https://vd3.bdstatic.com/mda-kidgcmu48wms4wwj/sc/mda-kidgcmu48wms4wwj.mp4
+4K高清车载DJ舞曲祁隆《爱的期限》加动感美女舞蹈 让您耳目一新,https://vd3.bdstatic.com/mda-kidgcmu48wms4wwj/sc/mda-kidgcmu48wms4wwj.mp4
+高音质经典夜店DJ舞曲乌兰图雅《追梦人》让我们随着音乐一起追梦,https://vd3.bdstatic.com/mda-kidegtyg9pgwn791/sc/mda-kidegtyg9pgwn791.mp4
+高音质经典夜店DJ舞曲乌兰图雅《追梦人》让我们随着音乐一起追梦,https://vd3.bdstatic.com/mda-kidegtyg9pgwn791/sc/mda-kidegtyg9pgwn791.mp4
+4K伤感DJ舞曲潘越云《我是不是你最疼爱的人》是否还记得这首歌？,https://vd3.bdstatic.com/mda-kiceixg5h0wr8kze/sc/mda-kiceixg5h0wr8kze.mp4
+4K伤感DJ舞曲潘越云《我是不是你最疼爱的人》是否还记得这首歌？,https://vd3.bdstatic.com/mda-kiceixg5h0wr8kze/sc/mda-kiceixg5h0wr8kze.mp4
+4K高清车载舞曲《乘风破浪的无价之姐》加美女炫舞 让您耳目一新,https://vd3.bdstatic.com/mda-kibbyvh6tane761t/sc/mda-kibbyvh6tane761t.mp4
+4K高清车载舞曲《乘风破浪的无价之姐》加美女炫舞 让您耳目一新,https://vd3.bdstatic.com/mda-kibbyvh6tane761t/sc/mda-kibbyvh6tane761t.mp4
+4K车载DJ舞曲凤凰传奇《策马奔腾》加美女舞蹈 这首歌太嗨了！,https://vd4.bdstatic.com/mda-kianueek7hu6bgvs/sc/mda-kianueek7hu6bgvs.mp4
+4K车载DJ舞曲凤凰传奇《策马奔腾》加美女舞蹈 这首歌太嗨了！,https://vd4.bdstatic.com/mda-kianueek7hu6bgvs/sc/mda-kianueek7hu6bgvs.mp4
+高音质老歌DJ舞曲含笑《飞天》加舞蹈背景 难忘的经典很有味道,https://vd2.bdstatic.com/mda-ki8y0f7t46yac0xz/sc/mda-ki8y0f7t46yac0xz.mp4
+高音质老歌DJ舞曲含笑《飞天》加舞蹈背景 难忘的经典很有味道,https://vd2.bdstatic.com/mda-ki8y0f7t46yac0xz/sc/mda-ki8y0f7t46yac0xz.mp4
+4K高清车载DJ舞曲曹越《咔咔的干》加动感炫舞背景 动感十足好听,https://vd3.bdstatic.com/mda-ki7w259r4vbe3hss/sc/mda-ki7w259r4vbe3hss.mp4
+4K高清车载DJ舞曲曹越《咔咔的干》加动感炫舞背景 动感十足好听,https://vd3.bdstatic.com/mda-ki7w259r4vbe3hss/sc/mda-ki7w259r4vbe3hss.mp4
+4K高清车载DJ舞曲《乘风破浪向你飘》加动感美女舞蹈 这首歌火了,https://vd2.bdstatic.com/mda-ki69adui2snxk4vc/sc/mda-ki69adui2snxk4vc.mp4
+4K高清车载DJ舞曲《乘风破浪向你飘》加动感美女舞蹈 这首歌火了,https://vd2.bdstatic.com/mda-ki69adui2snxk4vc/sc/mda-ki69adui2snxk4vc.mp4
+网上爆火的歌曲《李白》竟然改成了DJ舞曲 原来可以这样唱？,https://vd3.bdstatic.com/mda-ki2ni8ib41ksuab8/sc/mda-ki2ni8ib41ksuab8.mp4
+网上爆火的歌曲《李白》竟然改成了DJ舞曲 原来可以这样唱？,https://vd3.bdstatic.com/mda-ki2ni8ib41ksuab8/sc/mda-ki2ni8ib41ksuab8.mp4
+4K无损高音质车载夜店DJ舞曲《陪你到底》这首歌真是太嗨了！,https://vd2.bdstatic.com/mda-ki2fynm159rs0dut/sc/mda-ki2fynm159rs0dut.mp4
+4K无损高音质车载夜店DJ舞曲《陪你到底》这首歌真是太嗨了！,https://vd2.bdstatic.com/mda-ki2fynm159rs0dut/sc/mda-ki2fynm159rs0dut.mp4
+张学友经典老歌车载DJ舞曲《情网》唱得太好听了 不愧为天王巨星,https://vd2.bdstatic.com/mda-ki1z6kn4a85ss495/sc/mda-ki1z6kn4a85ss495.mp4
+张学友经典老歌车载DJ舞曲《情网》唱得太好听了 不愧为天王巨星,https://vd2.bdstatic.com/mda-ki1z6kn4a85ss495/sc/mda-ki1z6kn4a85ss495.mp4
+4K情歌对唱DJ舞曲孙艺琪崔伟立《走心的情歌》忍不住单曲循环！,https://vd3.bdstatic.com/mda-ki1wie1iekfy706x/sc/mda-ki1wie1iekfy706x.mp4
+4K情歌对唱DJ舞曲孙艺琪崔伟立《走心的情歌》忍不住单曲循环！,https://vd3.bdstatic.com/mda-ki1wie1iekfy706x/sc/mda-ki1wie1iekfy706x.mp4
+龙梅子一首车载DJ舞曲《因为爱着你》动感十足太好听了！,https://vd3.bdstatic.com/mda-ki0ydqnm529gk4ca/sc/mda-ki0ydqnm529gk4ca.mp4
+龙梅子一首车载DJ舞曲《因为爱着你》动感十足太好听了！,https://vd3.bdstatic.com/mda-ki0ydqnm529gk4ca/sc/mda-ki0ydqnm529gk4ca.mp4
+4K高清侯旭很火的一首车载DJ舞曲《逃》动感十足值得收藏！,https://vd4.bdstatic.com/mda-ki0vxmqhihc1kdpw/sc/mda-ki0vxmqhihc1kdpw.mp4
+4K高清侯旭很火的一首车载DJ舞曲《逃》动感十足值得收藏！,https://vd4.bdstatic.com/mda-ki0vxmqhihc1kdpw/sc/mda-ki0vxmqhihc1kdpw.mp4
+4K高音质车载DJ舞曲李伊曼《时间的过客》动感十足百听不厌！,https://vd2.bdstatic.com/mda-khwiw79y9r7dzyc7/sc/mda-khwiw79y9r7dzyc7.mp4
+4K高音质车载DJ舞曲李伊曼《时间的过客》动感十足百听不厌！,https://vd2.bdstatic.com/mda-khwiw79y9r7dzyc7/sc/mda-khwiw79y9r7dzyc7.mp4
+4K高音质车载DJ舞曲《爱情飞不到天堂》这烟嗓音很特别 快来听听,https://vd2.bdstatic.com/mda-khwfrstrkc7wnkh6/sc/mda-khwfrstrkc7wnkh6.mp4
+4K高音质车载DJ舞曲《爱情飞不到天堂》这烟嗓音很特别 快来听听,https://vd2.bdstatic.com/mda-khwfrstrkc7wnkh6/sc/mda-khwfrstrkc7wnkh6.mp4
+4K高清车载夜店DJ舞曲郑茜匀《离人盼》加动感美女舞蹈 好听到醉,https://vd2.bdstatic.com/mda-khw9stkrerphv7x3/sc/mda-khw9stkrerphv7x3.mp4
+4K高清车载夜店DJ舞曲郑茜匀《离人盼》加动感美女舞蹈 好听到醉,https://vd2.bdstatic.com/mda-khw9stkrerphv7x3/sc/mda-khw9stkrerphv7x3.mp4
+4K高清车载DJ舞曲纪伟《一起撸串喝啤酒》歌词现实很好听！,https://vd2.bdstatic.com/mda-khvxn3m28f82zr1t/sc/mda-khvxn3m28f82zr1t.mp4
+4K高清车载DJ舞曲纪伟《一起撸串喝啤酒》歌词现实很好听！,https://vd2.bdstatic.com/mda-khvxn3m28f82zr1t/sc/mda-khvxn3m28f82zr1t.mp4
+4K车载DJ舞曲龙翼刘晓龙《多想抱抱你》加美女舞蹈 太好听啦！,https://vd2.bdstatic.com/mda-khuy6rfz4a4dabgh/sc/mda-khuy6rfz4a4dabgh.mp4
+4K车载DJ舞曲龙翼刘晓龙《多想抱抱你》加美女舞蹈 太好听啦！,https://vd2.bdstatic.com/mda-khuy6rfz4a4dabgh/sc/mda-khuy6rfz4a4dabgh.mp4
+康又萁的一首车载DJ舞曲《我在等风也在等你》让人耳目一新！,https://vd2.bdstatic.com/mda-khux16b27gywu79b/sc/mda-khux16b27gywu79b.mp4
+康又萁的一首车载DJ舞曲《我在等风也在等你》让人耳目一新！,https://vd2.bdstatic.com/mda-khux16b27gywu79b/sc/mda-khux16b27gywu79b.mp4
+4K高音质车载夜店舞曲王力宏《龙的传人》听得让人热血澎湃！,https://vd4.bdstatic.com/mda-khtxvqpfew4zfw7r/sc/mda-khtxvqpfew4zfw7r.mp4
+4K高音质车载夜店舞曲王力宏《龙的传人》听得让人热血澎湃！,https://vd4.bdstatic.com/mda-khtxvqpfew4zfw7r/sc/mda-khtxvqpfew4zfw7r.mp4
+4K无损高音质车载DJ舞曲蒋雪儿《淋过伤心的雨》太好听了果断收藏,https://vd2.bdstatic.com/mda-khsx2qar6fc2hukq/sc/mda-khsx2qar6fc2hukq.mp4
+4K无损高音质车载DJ舞曲蒋雪儿《淋过伤心的雨》太好听了果断收藏,https://vd2.bdstatic.com/mda-khsx2qar6fc2hukq/sc/mda-khsx2qar6fc2hukq.mp4
+高音质车载DJ说唱舞曲陈兴瑜《男大当婚女大当嫁》确实很好听！,https://vd3.bdstatic.com/mda-khsk8qaz76e12wa3/sc/mda-khsk8qaz76e12wa3.mp4
+高音质车载DJ说唱舞曲陈兴瑜《男大当婚女大当嫁》确实很好听！,https://vd3.bdstatic.com/mda-khsk8qaz76e12wa3/sc/mda-khsk8qaz76e12wa3.mp4
+4K无损高音质车载DJ舞曲白小白《最美情侣》唯美浪漫的爱情歌曲！,https://vd2.bdstatic.com/mda-khsfjw53nkfhukas/sc/mda-khsfjw53nkfhukas.mp4
+4K无损高音质车载DJ舞曲白小白《最美情侣》唯美浪漫的爱情歌曲！,https://vd2.bdstatic.com/mda-khsfjw53nkfhukas/sc/mda-khsfjw53nkfhukas.mp4
+4K高音质车载DJ慢摇舞曲许巍《蓝莲花》加动感舞蹈背景 耳目一新,https://vd2.bdstatic.com/mda-khrwg5p44wndxeur/sc/mda-khrwg5p44wndxeur.mp4
+4K高音质车载DJ慢摇舞曲许巍《蓝莲花》加动感舞蹈背景 耳目一新,https://vd2.bdstatic.com/mda-khrwg5p44wndxeur/sc/mda-khrwg5p44wndxeur.mp4
+高音质车载DJ舞曲莎妞妞《我是一个爱情傻瓜》随着音乐嗨起来！,https://vd4.bdstatic.com/mda-khrq8ekw3mct1ybb/sc/mda-khrq8ekw3mct1ybb.mp4
+高音质车载DJ舞曲莎妞妞《我是一个爱情傻瓜》随着音乐嗨起来！,https://vd4.bdstatic.com/mda-khrq8ekw3mct1ybb/sc/mda-khrq8ekw3mct1ybb.mp4
+4K无损高音质车载DJ舞曲王琪《为你放弃全世界》视听新感觉,https://vd2.bdstatic.com/mda-khqxk2ribry0pp46/sc/mda-khqxk2ribry0pp46.mp4
+4K无损高音质车载DJ舞曲王琪《为你放弃全世界》视听新感觉,https://vd2.bdstatic.com/mda-khqxk2ribry0pp46/sc/mda-khqxk2ribry0pp46.mp4
+无损音质车载DJ舞曲张津涤《女人如书》加美女舞蹈背景 视听享受,https://vd4.bdstatic.com/mda-khqmwt1y621j8v3b/sc/mda-khqmwt1y621j8v3b.mp4
+无损音质车载DJ舞曲张津涤《女人如书》加美女舞蹈背景 视听享受,https://vd4.bdstatic.com/mda-khqmwt1y621j8v3b/sc/mda-khqmwt1y621j8v3b.mp4
+4K崔伟立孙艺琪《唱不完的情歌 爱不够的你》情歌对唱好听到醉！,https://vd2.bdstatic.com/mda-khpg33pk3g1xs15u/sc/mda-khpg33pk3g1xs15u.mp4
+4K崔伟立孙艺琪《唱不完的情歌 爱不够的你》情歌对唱好听到醉！,https://vd2.bdstatic.com/mda-khpg33pk3g1xs15u/sc/mda-khpg33pk3g1xs15u.mp4
+无损高音质车载DJ伤感舞曲欧阳俊《我爱的人已当妈》歌词入心好听,https://vd3.bdstatic.com/mda-khpcyr01wbsi6j9v/sc/mda-khpcyr01wbsi6j9v.mp4
+无损高音质车载DJ伤感舞曲欧阳俊《我爱的人已当妈》歌词入心好听,https://vd3.bdstatic.com/mda-khpcyr01wbsi6j9v/sc/mda-khpcyr01wbsi6j9v.mp4
+4K无损高音质情歌对唱DJ舞曲孙澜澜王子《陪你在一起》太好听了,https://vd2.bdstatic.com/mda-khnpzp13j5dgd7r5/sc/mda-khnpzp13j5dgd7r5.mp4
+4K无损高音质情歌对唱DJ舞曲孙澜澜王子《陪你在一起》太好听了,https://vd2.bdstatic.com/mda-khnpzp13j5dgd7r5/sc/mda-khnpzp13j5dgd7r5.mp4
+4K高音质车载酒吧夜店DJ舞曲梁剑东《夜色》粤语版随着音乐一起嗨,https://vd3.bdstatic.com/mda-khnnc216n9k21cpd/sc/mda-khnnc216n9k21cpd.mp4
+4K高音质车载酒吧夜店DJ舞曲梁剑东《夜色》粤语版随着音乐一起嗨,https://vd3.bdstatic.com/mda-khnnc216n9k21cpd/sc/mda-khnnc216n9k21cpd.mp4
+无损高音质车载电音DJ舞曲姜鹏《江湖大道》随着音乐一起嗨！,https://vd2.bdstatic.com/mda-khmm0rww3558kg4u/sc/mda-khmm0rww3558kg4u.mp4
+无损高音质车载电音DJ舞曲姜鹏《江湖大道》随着音乐一起嗨！,https://vd2.bdstatic.com/mda-khmm0rww3558kg4u/sc/mda-khmm0rww3558kg4u.mp4
+4K无损高音质车载DJ舞曲小曼《想你的时候唱一首情歌》太好听啦,https://vd3.bdstatic.com/mda-khmh81r85z29hzn9/sc/mda-khmh81r85z29hzn9.mp4
+4K无损高音质车载DJ舞曲小曼《想你的时候唱一首情歌》太好听啦,https://vd3.bdstatic.com/mda-khmh81r85z29hzn9/sc/mda-khmh81r85z29hzn9.mp4
+4K高音质车载DJ舞曲李宇春《无价之姐》一听才知道 竟然是这首歌,https://vd2.bdstatic.com/mda-khknzt01itkja897/sc/mda-khknzt01itkja897.mp4
+4K高音质车载DJ舞曲李宇春《无价之姐》一听才知道 竟然是这首歌,https://vd2.bdstatic.com/mda-khknzt01itkja897/sc/mda-khknzt01itkja897.mp4
+经典老歌车载DJ舞曲回放刘德华《开心的马骝》动感十足百听不厌,https://vd2.bdstatic.com/mda-khkf914phxie4a7b/sc/mda-khkf914phxie4a7b.mp4
+经典老歌车载DJ舞曲回放刘德华《开心的马骝》动感十足百听不厌,https://vd2.bdstatic.com/mda-khkf914phxie4a7b/sc/mda-khkf914phxie4a7b.mp4
+4K高音质车载DJ舞曲于玄子《求求你给点力》加动感舞蹈 确实很火,https://vd3.bdstatic.com/mda-khjj41ww3wdkjjgj/sc/mda-khjj41ww3wdkjjgj.mp4
+4K高音质车载DJ舞曲于玄子《求求你给点力》加动感舞蹈 确实很火,https://vd3.bdstatic.com/mda-khjj41ww3wdkjjgj/sc/mda-khjj41ww3wdkjjgj.mp4
+无损高音质车载DJ舞曲司徒兰芳《我的草原我的缘》这首歌太好听了,https://vd2.bdstatic.com/mda-khjei7888guynucj/sc/mda-khjei7888guynucj.mp4
+无损高音质车载DJ舞曲司徒兰芳《我的草原我的缘》这首歌太好听了,https://vd2.bdstatic.com/mda-khjei7888guynucj/sc/mda-khjei7888guynucj.mp4
+4K无损高音质车载DJ舞曲呼和浩楠《谢谢你朋友》歌词入心好听！,https://vd3.bdstatic.com/mda-khik2n7zeygvezde/sc/mda-khik2n7zeygvezde.mp4
+4K无损高音质车载DJ舞曲呼和浩楠《谢谢你朋友》歌词入心好听！,https://vd3.bdstatic.com/mda-khik2n7zeygvezde/sc/mda-khik2n7zeygvezde.mp4
+无损高音质车载DJ舞曲刘奕辰《我又想你了》视听全新感受！,https://vd3.bdstatic.com/mda-khifqizyqxt1wgju/sc/mda-khifqizyqxt1wgju.mp4
+无损高音质车载DJ舞曲刘奕辰《我又想你了》视听全新感受！,https://vd3.bdstatic.com/mda-khifqizyqxt1wgju/sc/mda-khifqizyqxt1wgju.mp4
+无损高音质车载DJ舞曲东方晴儿《等风等雨不如等你》真是百听不厌,https://vd4.bdstatic.com/mda-khhvypxh8fy29n43/sc/mda-khhvypxh8fy29n43.mp4
+无损高音质车载DJ舞曲东方晴儿《等风等雨不如等你》真是百听不厌,https://vd4.bdstatic.com/mda-khhvypxh8fy29n43/sc/mda-khhvypxh8fy29n43.mp4
+
